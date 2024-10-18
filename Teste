@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Assistência técnica especializada em reparos de celulares. Contate-nos via WhatsApp!">
+    <title>Assistência Técnica de Celular</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #1e90ff;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+        .about, .testimonials {
+            margin: 20px auto;
+            max-width: 800px;
+        }
+        .cta-button {
+            display: inline-block;
+            padding: 15px 30px;
+            font-size: 1.2em;
+            color: white;
+            background-color: #28a745;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+        }
+        .cta-button:hover {
+            background-color: #218838;
+        }
+        .testimonials {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .testimonial-item {
+            margin-bottom: 15px;
+            font-style: italic;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Assistência Técnica de Celular</h1>
+    <p>Reparos rápidos e de confiança. Seu celular em boas mãos!</p>
+</header>
+
+<section class="about">
+    <h2>Sobre nós</h2>
+    <p>Somos especializados em consertos de celulares de todas as marcas. Oferecemos reparos rápidos, confiáveis e com garantia. Trabalhamos com substituição de tela, bateria, problemas de software, e muito mais.</p>
+</section>
+
+<section class="cta">
+    <h2>Entre em contato conosco!</h2>
+    <a class="cta-button" href="https://wa.me/seu-numero-whatsapp" target="_blank">Fale conosco via WhatsApp</a>
+</section>
+
+<section class="testimonials">
+    <h2>Avaliações dos nossos clientes</h2>
+    <div class="testimonial-item">
+        <p>"Serviço excelente, consertei meu celular em menos de uma hora!" - João Silva</p>
+    </div>
+    <div class="testimonial-item">
+        <p>"Atendimento super rápido e de qualidade. Recomendo!" - Maria Oliveira</p>
+    </div>
+    <div class="testimonial-item">
+        <p>"Melhor assistência técnica que já usei, meu celular ficou como novo!" - Carlos Lima</p>
+    </div>
+</section>
+
+<footer>
+    <p>&copy; 2024 Assistência Técnica de Celular - Todos os direitos reservados</p>
+</footer>
+
+</body>
+</html>
